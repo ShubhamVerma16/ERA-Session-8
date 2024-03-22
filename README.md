@@ -39,7 +39,9 @@ Batch Normalization  | 74.80 | 72.19 | 25,168
 ### Model Summary
 ![image](https://github.com/ShubhamVerma16/ERA-Session-8/assets/46774613/a95ccd2b-3e8b-4da9-9c81-58c66b79cb7e)
 ### Trainign curves Model Summary
+![image](https://github.com/ShubhamVerma16/ERA-Session-8/assets/46774613/5c312a86-dbed-4fd6-bb2b-b2fb792df918)
 ### Wrongly classifed Images
+![image](https://github.com/ShubhamVerma16/ERA-Session-8/assets/46774613/6bc1e2d0-29ba-46d9-b8d2-b583b3e2677c)
 
 ## Batch Normalization
 - - - -

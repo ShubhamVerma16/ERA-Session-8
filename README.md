@@ -8,11 +8,12 @@
 * Keep the model params under 50k and achieve accuracy of >= 70% under 20 epochs
 
 ## Results
+
 Normalization | Train Accuracy | Test Accuracy | Number of Params
-| :---: | :---: | :---:
-Group Normalization  | Content Cell | Content Cell |
-Batch Normalization  | Content Cell | Content Cell |
-Layer Normalization  | Content Cell | Content Cell |
+| :---: | :---: | :---: | :---:
+Group Normalization  | Content Cell | Content Cell | sdfgsd
+Batch Normalization  | Content Cell | Content Cell | sdfgsdg
+Layer Normalization  | Content Cell | Content Cell | sdfgsg
 
 ## Group Normalization
 ## Model Summary
